@@ -1,0 +1,9 @@
+export { default as FormRow } from "./FormRow";
+export { default as FormRowSelect } from "./FormRowSelect";
+export { default as SubmitBtn } from "./SubmitBtn";
+export { default as LoginPageLogo } from "./LoginpageLogo";
+export { default as HomepageLogo } from "./HomepageLogo";
+export { default as About } from "../pages/About";
+export { default as Footer } from "./Footer";
+export { default as StudentFormContent } from "./SutudentFormContent";
+export { default as AdminNavbar } from "./AdminNavbar";
